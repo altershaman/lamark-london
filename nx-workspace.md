@@ -2,8 +2,6 @@
 
 # Lamark London
 
-01.08.2021 - [lamark-london workspace generated](/nx-workspace.md)
-
 This project was generated using [Nx](https://nx.dev).
 
 `npx create-nx-workspace --preset=angular`<br>
