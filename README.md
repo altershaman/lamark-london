@@ -1,8 +1,11 @@
 
 
-# LamarkLondon
+# Lamark London
 
 This project was generated using [Nx](https://nx.dev).
+
+`npx create-nx-workspace --preset=angular`
+Main app is "things", ng version 12.x
 
 <p style="text-align: center;"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
 
